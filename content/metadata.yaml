@@ -324,3 +324,20 @@ authors:
     coi:
       string: "None"
       lastapproved: !!str 2020-04-10
+  -
+    github: dianerafi
+    name: Diane N. Rafizadeh
+    initials: DNR
+    orcid: 0000-0002-2838-067X
+    email: diane.rafizadeh@pennmedicine.upenn.edu
+    contributions:
+      - Writing - Original Draft
+      - Writing - Review & Editing
+    affiliations:
+      - Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America
+      - Department of Chemistry, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-04-12
+      
+    
